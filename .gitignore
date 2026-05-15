@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+logs/
+.gemini/
+.vscode/
+.idea/
+*.docx
+!Mini Project report Sample.docx
+!Fish_Feed_Prediction_Report_Formatted_V2.docx
